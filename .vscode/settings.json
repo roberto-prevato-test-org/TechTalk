@@ -1,0 +1,10 @@
+{
+  "python.testing.pytestArgs": [
+    "."
+  ],
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true,
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": "file:///d%3A/projects/demant/tech-talk/TechTalk/.github/build.yaml"
+  }
+}
